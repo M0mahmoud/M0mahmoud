@@ -15,6 +15,3 @@ Hello, I'm Mahmoud.<br>Junior Front-End Developer React.js
 ![](https://github-readme-streak-stats.herokuapp.com/?user=M0mahmoud&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=M0mahmoud&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=M0mahmoud&limit=4&theme=dark&combine_all_yearly_contributions=true)
