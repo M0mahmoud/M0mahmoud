@@ -28,5 +28,5 @@
 
 ## 📫 Contact Me
 
-📩 **Email:** [devmahmoud.me@gmail.com](mailto:devmahmoud.me@gmail.com)  
+📩 **Email:** [me@devmahmoud.me](mailto:me@devmahmoud.me)  
 🌐 **Website:** [devmahmoud.me](https://devmahmoud.me)
