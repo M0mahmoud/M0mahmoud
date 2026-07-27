@@ -2,7 +2,7 @@
 
 <h3 align="center"> Frontend Engineer specializing in React.js, Next.js, TypeScript, and scalable web applications </h3>
 
-<p align="center"> <a href="https://devmahmoud.me"> <img src="https://img.shields.io/badge/Portfolio-devmahmoud.me-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a> <a href="https://linkedin.com/in/mahmoud05"> <img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Mohamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:me@devmahmoud.me"> <img src="https://img.shields.io/badge/Email-me%40devmahmoud.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
+<p align="center"> <a href="https://devmahmoud.me"> <img src="https://img.shields.io/badge/Portfolio-devmahmoud.me-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a> <a href="https://linkedin.com/in/mahmoud05"> <img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Mohamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p>
 
 
 ## 💫 About Me
