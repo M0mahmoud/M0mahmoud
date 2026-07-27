@@ -1,24 +1,23 @@
-<h1 align="center">Hi 👋, I'm Mahmoud</h1>
-<h3 align="center">A passionate Front-End Developer specializing in React.js & Next.js</h3>
+<h1 align="center">Hi 👋, I'm Mahmoud Mohamed</h1>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,redux,tailwind,bootstrap,sass,materialui,nodejs,express,mongodb,supabase,firebase,git,github,figma,vscode" />
-</p>
+<h3 align="center"> Frontend Engineer specializing in React.js, Next.js, TypeScript, and scalable web applications </h3>
+
+<p align="center"> <a href="https://devmahmoud.me"> <img src="https://img.shields.io/badge/Portfolio-devmahmoud.me-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /> </a> <a href="https://linkedin.com/in/mahmoud05"> <img src="https://img.shields.io/badge/LinkedIn-Mahmoud_Mohamed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:me@devmahmoud.me"> <img src="https://img.shields.io/badge/Email-me%40devmahmoud.me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> </p>
 
 
 ## 💫 About Me
 
-- 🚀 Junior Front-End Developer focused on building responsive, scalable, and user-friendly web apps.
-- 🛠 Skilled in React.js, Next.js, Tailwind CSS, and modern JavaScript/TypeScript practices.
-- 📚 Constantly learning new tools and frameworks to improve user experience and performance.
-- 🌍 Portfolio: [devmahmoud.me](https://devmahmoud.me)
+* 🚀 Frontend Engineer with **3+ years of experience** building production-ready web applications.
+* 💼 Currently working as a **Frontend Next.js Engineer at SoftKhana**.
+* ⚡ Specialized in **React.js, Next.js, TypeScript, and Tailwind CSS**.
+* 🏗️ Experienced in SaaS products, dashboards, admin portals, and role-based systems.
+* 🌍 Building responsive and multilingual applications with Arabic and English support.
+* 📊 Focused on performance, accessibility, SEO, clean architecture, and user experience.
+* 🤖 Interested in AI-powered products, automation, and modern web technologies.
+* 🌐 View my work at [devmahmoud.me](https://devmahmoud.me).
 
 
 
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mahmoud05) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/dev_mahmoud_05)
 
 
 ## 📊 GitHub Stats
